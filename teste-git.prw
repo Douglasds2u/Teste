@@ -16,4 +16,5 @@
 /*/
 User Function TesteGit()
   cNome := "Douglas"
+  dData := Date()
 Return Nil
