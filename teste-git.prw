@@ -15,5 +15,5 @@
 @see (links_or_references)
 /*/
 User Function TesteGit()
-
+  cNome := "Douglas"
 Return Nil
