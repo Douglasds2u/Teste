@@ -17,4 +17,5 @@
 User Function TesteGit()
   cNome := "Douglas"
   dData := Date()
+  cHora := Time()
 Return Nil
